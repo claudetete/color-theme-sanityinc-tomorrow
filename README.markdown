@@ -12,6 +12,9 @@ The themes work with both the built-in theming support in recent
 Emacsen, *and* via the traditional `color-theme.el` add-on library in
 older versions, so use whichever you prefer.
 
+*Fork to add theme between eighties and night: dark*
+
+
 ## Installation ##
 
 If you're all set up to use [Marmalade](http://marmalade-repo.org) or
@@ -38,6 +41,7 @@ install `color-theme.el`.
     M-x color-theme-sanityinc-tomorrow-blue
     M-x color-theme-sanityinc-tomorrow-bright
     M-x color-theme-sanityinc-tomorrow-eighties
+    M-x color-theme-sanityinc-tomorrow-dark
 
 In newer Emacs versions, just require the library as above, then
 
